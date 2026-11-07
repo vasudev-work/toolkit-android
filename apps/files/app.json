@@ -1,0 +1,8 @@
+{
+  "slug": "files",
+  "name": "Files",
+  "applicationId": "dev.toolkit.files",
+  "versionName": "1.0.0",
+  "versionCode": 1,
+  "tagline": "Inspect local files, nothing uploaded"
+}
