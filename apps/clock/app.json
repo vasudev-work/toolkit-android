@@ -1,0 +1,8 @@
+{
+  "slug": "clock",
+  "name": "Clock",
+  "applicationId": "dev.toolkit.clock",
+  "versionName": "1.0.0",
+  "versionCode": 1,
+  "tagline": "Local time, world clocks, stopwatch, timer"
+}
