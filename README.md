@@ -1,8 +1,8 @@
 # Toolkit for Android — five tiny offline apps
 
 Five separate apps, one shared design, zero network access. Each APK is a
-thin native shell around a single self-contained HTML page, so each APK is
-about 115 KB and runs without a connection — no INTERNET permission is
+thin native shell around a single self-contained HTML page, so every build
+lands around 115 KB and runs without a connection — no INTERNET permission is
 requested at all.
 
 | App | Package | What it does |
